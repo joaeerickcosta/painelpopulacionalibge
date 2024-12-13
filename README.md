@@ -137,7 +137,7 @@ Situação do domicílio: Total e Urbana
 Ano: 2022
 Nivel Territorial: Municipios (853/5570)
 
-Com base na seleçao desses filtros voce obtem os seguinte api: /k/1505583102
+Com base na seleçao desses filtros voce obtem o seguinte api: /k/1505583102
 
 
 
